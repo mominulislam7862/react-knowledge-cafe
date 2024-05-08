@@ -1,0 +1,53 @@
+[
+    {
+      "id": 123456,
+      "cover": "https://example.com/cover123456.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Johnson",
+      "author_img": "https://example.com/authors/emily_johnson.jpg",
+      "posted_date": "May 6, 2024",
+      "reading_time": "15 minutes",
+      "hashtags": ["#fiction", "#classics", "#gardens"]
+    },
+    {
+      "id": 789012,
+      "cover": "https://example.com/cover789012.png",
+      "title": "Galactic Adventures: The Lost Nebula",
+      "author": "Max Power",
+      "author_img": "https://example.com/authors/max_power.jpg",
+      "posted_date": "May 5, 2024",
+      "reading_time": "20 minutes",
+      "hashtags": ["#scifi", "#adventure", "#space"]
+    },
+    {
+      "id": 345678,
+      "cover": "https://example.com/cover345678.jpg",
+      "title": "Culinary Chronicles: A Journey Through Flavors",
+      "author": "Samantha Green",
+      "author_img": "https://example.com/authors/samantha_green.jpg",
+      "posted_date": "May 4, 2024",
+      "reading_time": "25 minutes",
+      "hashtags": ["#cooking", "#foodie", "#recipes"]
+    },
+    {
+      "id": 901234,
+      "cover": "https://i.ibb.co/RGnsqtG/3d-render-graduation-cap-with-diploma-certificate.jpg",
+      "title": "The Art of Mindfulness",
+      "author": "Alex Tran",
+      "author_img": "https://i.ibb.co/RGnsqtG/3d-render-graduation-cap-with-diploma-certificate.jpg",
+      "posted_date": "May 3, 2024",
+      "reading_time": "10 minutes",
+      "hashtags": ["#mindfulness", "#meditation", "#selfcare"]
+    },
+    {
+      "id": 567890,
+      "cover": "https://example.com/cover567890.jpg",
+      "title": "Into the Wild: A Photographic Journey",
+      "author": "Michael Woods",
+      "author_img": "https://example.com/authors/michael_woods.jpg",
+      "posted_date": "May 2, 2024",
+      "reading_time": "30 minutes",
+      "hashtags": ["#photography", "#nature", "#wilderness"]
+    }
+  ]
+  
